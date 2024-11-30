@@ -1,6 +1,6 @@
-### **Lip Gesture to Speech Project**
+# **Lip Gesture to Speech Project**
 
-# Lip Gesture to Speech: Enabling Communication for Verbally Impaired People
+## Enabling Communication for Verbally Impaired People
 
 ## Project Overview
 
