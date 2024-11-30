@@ -1,6 +1,5 @@
-### **`README.md` for Lip Gesture to Speech Project**
+### **Lip Gesture to Speech Project**
 
-```markdown
 # Lip Gesture to Speech: Enabling Communication for Verbally Impaired People
 
 ## Project Overview
@@ -25,10 +24,9 @@ To understand the theoretical foundation and the existing work in this field, re
 
 ## Project Structure
 
-The project is organized into the following directories:
+- The project is organized into the following directories:
 
-```
-lip-gesture-to-speech/
+- lip-gesture-to-speech/
 │
 ├── backend/                  # FastAPI backend
 ├── frontend/                 # Frontend for Web and Mobile Apps
@@ -40,7 +38,7 @@ lip-gesture-to-speech/
 ├── setup.py                  # Project setup script for easy installation
 ├── .gitignore                # Git ignore file
 ├── README.md                 # Project documentation
-```
+
 
 ### **Backend**:
 - The backend uses **FastAPI** to create RESTful APIs.
