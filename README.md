@@ -24,21 +24,6 @@ To understand the theoretical foundation and the existing work in this field, re
 
 ## Project Structure
 
-- The project is organized into the following directories:
-
-- lip-gesture-to-speech/
-│
-├── backend/                  # FastAPI backend
-├── frontend/                 # Frontend for Web and Mobile Apps
-├── data/                     # Dataset for lip gesture images/videos
-├── model/                    # YOLOv8 and custom models for gesture recognition
-├── notebooks/                # Jupyter Notebooks for data exploration and model training
-├── deployment/               # Docker and Kubernetes files for deployment
-├── requirements.txt          # Python dependencies
-├── setup.py                  # Project setup script for easy installation
-├── .gitignore                # Git ignore file
-├── README.md                 # Project documentation
-
 
 ### **Backend**:
 - The backend uses **FastAPI** to create RESTful APIs.
